@@ -8,7 +8,7 @@ var gitment = new Gitment({
   repo: '{{site.repo-for-gitment}}', // 存储评论的 repo
   oauth: {
     client_id: '{{site.oauth_client_id}}', //你的 client ID
-    client_secret: '{{oauth_client_secret}}', //你的 client secret
+    client_secret: '{{site.oauth_client_secret}}', //你的 client secret
   },
 })
 gitment.render('container')
