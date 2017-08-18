@@ -61,9 +61,9 @@ kramdown:
 # Netease setttings
 netease_comment: false
 Gitment: true
-    repo-for-gitment: Blog-Comment
-    oauth_client_id: 0cc800db4cf94e87e6fb           #Gihub OAuth的 client ID
-    oauth_client_secret: 940c596cd1d016b3a8bf3abb3eee42af3a8c6bda   #Gihub OAuth的 client secret
+repo_for_gitment: Blog-Comment
+oauth_client_id: 0cc800db4cf94e87e6fb           #Gihub OAuth的 client ID
+oauth_client_secret: 940c596cd1d016b3a8bf3abb3eee42af3a8c6bda   #Gihub OAuth的 client secret
 
 
 
