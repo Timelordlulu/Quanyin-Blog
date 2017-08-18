@@ -5,9 +5,9 @@ header-img: /img/bg-default.jpg    #默认底图
 email: qytang326@gmail.com
 description: "博学而笃志，切问而近思| 这里是 @Quanyin 的个人博客，与你一起发现更大的世界。"
 keyword: ""
-url: "http://qytang326.github.io"        # your host, for absolute URL
-baseurl: ""               #for example, '/blog' if your blog hosted on 'host/blog',为主题模板时：/gh-pages-theme
-repository: qytang326/qytang326.github.io
+#url: "http://qytang326.github.io"              # your host, for absolute URL
+#baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog' /gh-pages-theme
+#repository: qytang326/qytang326.github.io
 
 
 # SNS settings
@@ -60,6 +60,10 @@ kramdown:
 
 # Netease setttings
 netease_comment: false
+Gitment: true
+    repo-for-gitment: Blog-Comment
+    oauth_client_id: '0cc800db4cf94e87e6fb',        #Gihub OAuth的 client ID
+    oauth_client_secret: '940c596cd1d016b3a8bf3abb3eee42af3a8c6bda', #Gihub OAuth的 client secret
 
 
 
