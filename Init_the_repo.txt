@@ -1,0 +1,6 @@
+rm -rf .git &&
+git init &&
+git add . &&
+git commit -m "First Commit" &&
+git remote add origin git@github.com:qytang326/Blog.git &&
+git push -f -u origin master
