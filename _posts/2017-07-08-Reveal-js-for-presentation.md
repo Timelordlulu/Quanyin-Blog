@@ -2,7 +2,7 @@
 layout:     keynote
 title:      "Reveal.js"
 subtitle:   "THE HTML PRESENTATION FRAMEWORK"
-iframe:     "Source/reveal-js/"
+iframe:     "/Source/reveal-js/"
 date:       2017-07-08
 author:     "hakimel"
 catalog:    true
