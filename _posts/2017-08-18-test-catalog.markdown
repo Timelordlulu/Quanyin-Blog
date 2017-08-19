@@ -6,7 +6,7 @@ create-date:    2016-08-11
 update-date:    2016-08-11
 author:         "Shiny"
 header-img:     "img/post-bg-XXXX.jpg"
-description:    Some Description
+description:    ""
 catalog:        true
 categories:     
                 - 转载
