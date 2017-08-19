@@ -2,7 +2,7 @@
 layout:     keynote
 title:      "Reveal.js"
 subtitle:   "THE HTML PRESENTATION FRAMEWORK"
-iframe:     "Project/reveal-js/"
+iframe:     "Source/reveal-js/"
 date:       2017-07-08
 author:     "hakimel"
 catalog:    true
@@ -19,7 +19,7 @@ tags:
 Fork 自 [hakimel@Github](https://github.com/hakimel/reveal-js)
 
 
-### [Watch Fullscreen →](https://qytang326.github.io/Project/reveal-js/)
+### [Watch Fullscreen →](/Source/reveal-js/)
 
 <div class="visible-md visible-lg">
 <!--
