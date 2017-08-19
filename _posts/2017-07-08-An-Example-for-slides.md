@@ -2,7 +2,7 @@
 layout:     keynote
 title:      "JavaScript 模块化七日谈"
 subtitle:   "Slides: JavaScript Modularization Journey"
-iframe:     "//qytang326.github.io/Project/An-Example-for-Slides/"
+iframe:     Project/An-Example-for-Slides
 date:       2015-07-09
 author:     "Hux"
 catalog:    true
