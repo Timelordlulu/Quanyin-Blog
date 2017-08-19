@@ -2,12 +2,12 @@
 layout:     keynote
 title:      "Reveal.js"
 subtitle:   "THE HTML PRESENTATION FRAMEWORK"
-iframe:     "//quanyin.tk/Project/reveal-js/"
+iframe:     "//quanyin.ml/Project/reveal-js/"
 date:       2017-07-08
 author:     "hakimel"
 catalog:    true
 categories:  
-            - README
+            - Example
 tags:
             - Presentation
             - Example
