@@ -41,6 +41,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - jemoji
 
 
 
