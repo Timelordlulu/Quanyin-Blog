@@ -81,8 +81,9 @@ oauth_client_secret: 940c596cd1d016b3a8bf3abb3eee42af3a8c6bda   #Gihub OAuth的 
 ga_track_id: 'UA-102057505-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto                         #  自定义的域名,默认的是 auto,
 
-
-
+## 站点验证 html标记
+baidu-site-verification: "9zhethtqvq"
+google-site-verification: "PVVDtPNlrk69LsXb6WBytJBK-DKqdDCkwXBm7WStvSg"
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "自由而无用，<br>离开世界之前，一切都是过程"
