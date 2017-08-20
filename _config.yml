@@ -88,18 +88,34 @@ sidebar-avatar: /img/avatar-qytang.jpg      # use absolute URL, seeing it's used
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 2              # A tag will be featured if the size of it is more than this condition value
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
 
 #daovoice
 daovoice: true
 daovoice_appid: f72737da
 daovoice_userid: NO_89757
+
+#不蒜子计数
+busuanzi: true
+
 #pageviews
 pageviews: true
-# Progressive Web Apps
-chrome-tab-theme-color: "#000000"
-service-worker: true
 
+#页面点击小红心
+click-love: true
+
+#背景动画
+background-particle: true
+
+#鼠标特效
+convas-nest: true
+
+#推送到百度、360等以增加收录
+push-for-include: true
 
 
 # Friends
