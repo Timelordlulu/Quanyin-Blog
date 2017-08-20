@@ -5,7 +5,7 @@ header-img: img/bg-default.jpg    #默认底图
 email: qytang326@gmail.com
 description: "博学而笃志，切问而近思| 这里是 @Quanyin 的个人博客，与你一起发现更大的世界。"
 keyword: ""
-url: "http://quanyin.tk"                # your host, for absolute URL
+url: "http://Quanyin.tk"                # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog' /gh-pages-theme
 repo: Quanyin-Blog                      #Where is the Repo
 
@@ -39,7 +39,10 @@ about_path: about
 # from PR#40, to support local preview for Jekyll 3.0
 gems: 
   - jekyll-paginate
+  - jekyll-github-metadata
+  - Jekyll-mentions
   - jekyll-sitemap
+  - jekyll-gist  
   - jekyll-feed
   - jemoji
 
