@@ -294,7 +294,7 @@ daovoice('init', {
   app_id:"{{ site.daovoice_appid }}",
   user_id:"{{ site.daovoice_userid }}", // 必填: 该用户在您系统上的唯一ID
   email: "daovoice@example.com", // 选填:  该用户在您系统上的主邮箱
-  name: "Quanyin Tang", // 选填: 用户名
+  name: "", // 选填: 用户名
   signed_up: 1449821660 // 选填: 用户的注册时间，用Unix时间戳表示
 });
 daovoice('update');
@@ -328,7 +328,9 @@ daovoice('update');
 
 <!-- 是否自动推送到到百度、360等以增加收录-->
 {% if site.push-for-include %}
+
 <!-- 百度收录-->
+{% if site.push-to-baidu %}
 <script>
 (function(){
     var bp = document.createElement('script');
@@ -344,12 +346,15 @@ daovoice('update');
 })();
 </script>
 <!-- 360收录-->
+{% if site.push-to-360 %}
 <script>
 (function(){
    var src = (document.location.protocol == "http:") ? "http://js.passport.qihucdn.com/11.0.1.js?d7af82f5d5a7d431d4b53f4d0069f989":"https://jspassport.ssl.qhimg.com/11.0.1.js?d7af82f5d5a7d431d4b53f4d0069f989";
    document.write('<script src="' + src + '" id="sozz"><\/script>');
 })();
 </script>
+{% endif %}
+{% endif %}
 {% endif %}
 
    
