@@ -82,7 +82,7 @@ ga_track_id: 'UA-102057505-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto                         #  自定义的域名,默认的是 auto,
 
 ## 站点验证 html标记
-baidu-site-verification: "9zhethtqvq"
+baidu-site-verification: "fVwsYaXg3p"
 google-site-verification: "PVVDtPNlrk69LsXb6WBytJBK-DKqdDCkwXBm7WStvSg"
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
