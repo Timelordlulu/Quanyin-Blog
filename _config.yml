@@ -6,8 +6,8 @@ email: 1714831914@qq.com
 description: "From Shanghai High School"
 keyword: ""
 url: "http://www.lucunyuan.com/blog"                # your host, for absolute URL
-baseurl: "/Blog"                             # for example, '/blog' if your blog hosted on 'host/blog' /gh-pages-theme
-repo: Blog                      #Where is the Repo
+baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog' /gh-pages-theme
+repo: blog                      #Where is the Repo
 
 
 # SNS settings
