@@ -126,14 +126,4 @@ push-to-baidu: false
 push-to-360: true
 
 
-# Friends
-friends: [
-    {
-         title: "Quanyin",
-         href: "http://quanyin.tk/"
-    },
-    {
-         title: "Hux",
-         href: "https://huangxuan.me/"
-    }
-]
+
