@@ -64,7 +64,7 @@ netease_comment: false
 
 # Gitment settings
 Gitment: true
-repo_for_gitment: blog
+repo_for_gitment: blog-comment
 oauth_client_id: f575554aa69f6f3a7fe6          #Gihub OAuth的 client ID
 oauth_client_secret: 573da4d988e74a9d87982055157e2aa060c6de8b   #Gihub OAuth的 client secret
 
