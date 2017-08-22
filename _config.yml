@@ -97,7 +97,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 #daovoice
-daovoice: true
+daovoice: false
 daovoice_appid: f72737da
 daovoice_userid: NO_89757
 
