@@ -84,7 +84,7 @@ google-site-verification: "PVVDtPNlrk69LsXb6WBytJBK-DKqdDCkwXBm7WStvSg"
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: ""
-sidebar-avatar: http://www.z4a.net/images/2017/08/22/myself.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://www.z4a.net/images/2017/08/22/myself.md.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
