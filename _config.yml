@@ -1,13 +1,13 @@
 # Site settings
-title: Quanyin Blog
-SEOTitle: Quanyin Tang的博客 | Quanyin Blog
+title: Cunyuan Blog
+SEOTitle: Cunyuan Lu的博客 | Cunyuan Blog
 header-img: img/bg-default.jpg    #默认底图
-email: qytang326@gmail.com
-description: "博学而笃志，切问而近思| 这里是 @Quanyin 的个人博客，与你一起发现更大的世界。"
+email: 1714831914@qq.com
+description: "博学而笃志，切问而近思| 这里是 @Cunyuan 的个人博客，与你一起发现更大的世界。"
 keyword: ""
-url: "http://Quanyin.tk"                # your host, for absolute URL
+url: "http://www.lucunyuan.com/blog"                # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog' /gh-pages-theme
-repo: Quanyin-Blog                      #Where is the Repo
+repo: Blog                      #Where is the Repo
 
 
 # SNS settings
@@ -59,17 +59,16 @@ kramdown:
 
 
 
-# Disqus settings
-#disqus_username: qytang326
+
 
 # Netease setttings
 netease_comment: false
 
 # Gitment settings
 Gitment: true
-repo_for_gitment: Blog-Comment
-oauth_client_id: 0cc800db4cf94e87e6fb           #Gihub OAuth的 client ID
-oauth_client_secret: 940c596cd1d016b3a8bf3abb3eee42af3a8c6bda   #Gihub OAuth的 client secret
+repo_for_gitment: Blog
+oauth_client_id: f575554aa69f6f3a7fe6           #Gihub OAuth的 client ID
+oauth_client_secret: 573da4d988e74a9d87982055157e2aa060c6de8b   #Gihub OAuth的 client secret
 
 
 
