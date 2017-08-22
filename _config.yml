@@ -3,7 +3,7 @@ title: Cunyuan Blog
 SEOTitle: Cunyuan Lu的博客 | Cunyuan Blog
 header-img: img/bg-default.jpg    #默认底图
 email: 1714831914@qq.com
-description: "博学而笃志，切问而近思| 这里是 @Cunyuan 的个人博客，与你一起发现更大的世界。"
+description: ""
 keyword: ""
 url: "http://www.lucunyuan.com/blog"                # your host, for absolute URL
 baseurl: "/Blog"                             # for example, '/blog' if your blog hosted on 'host/blog' /gh-pages-theme
@@ -13,13 +13,11 @@ repo: Blog                      #Where is the Repo
 # SNS settings
 RSS: false
 #RSS: feed.xml
-weibo_username:     778950326
-zhihu_username:     qytang326
-github_username:    qytang326
+github_username:   Timelordlulu
 #twitter_username:   
 #facebook_username:  
-linkedin_username:  quanyin-tang-56a543b1
-email: qytang326@gmail.com
+
+email: 1714831914@qq.com
 
 
 # Build settings
@@ -67,7 +65,7 @@ netease_comment: false
 # Gitment settings
 Gitment: true
 repo_for_gitment: Blog
-oauth_client_id: f575554aa69f6f3a7fe6           #Gihub OAuth的 client ID
+oauth_client_id: f575554aa69f6f3a7fe6          #Gihub OAuth的 client ID
 oauth_client_secret: 573da4d988e74a9d87982055157e2aa060c6de8b   #Gihub OAuth的 client secret
 
 
@@ -85,7 +83,7 @@ baidu-site-verification: "fVwsYaXg3p"
 google-site-verification: "PVVDtPNlrk69LsXb6WBytJBK-DKqdDCkwXBm7WStvSg"
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "自由而无用，<br>离开世界之前，一切都是过程"
+sidebar-about-description: ""
 sidebar-avatar: /img/avatar-qytang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
