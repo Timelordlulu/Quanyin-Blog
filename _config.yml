@@ -64,7 +64,7 @@ netease_comment: false
 
 # Gitment settings
 Gitment: true
-repo_for_gitment: Blog
+repo_for_gitment: blog
 oauth_client_id: f575554aa69f6f3a7fe6          #Gihub OAuth的 client ID
 oauth_client_secret: 573da4d988e74a9d87982055157e2aa060c6de8b   #Gihub OAuth的 client secret
 
@@ -72,11 +72,10 @@ oauth_client_secret: 573da4d988e74a9d87982055157e2aa060c6de8b   #Gihub OAuth的 
 
 # Analytics settings
 # Baidu Analytics 
+
 # ba_track_id: [your track id]
 
-# Google Analytics
-ga_track_id: 'UA-102057505-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto                         #  自定义的域名,默认的是 auto,
+
 
 ## 站点验证 html标记
 baidu-site-verification: "fVwsYaXg3p"
