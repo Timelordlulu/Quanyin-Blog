@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "From "Deep Blue" to "Waston""
+title:          "From Deep Blue to Waston"
 subtitle:       " "
 date:           2017-07-12 
 author:         "Cunyuan Lu"
