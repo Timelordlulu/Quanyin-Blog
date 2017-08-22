@@ -10,7 +10,7 @@ catalog:        true
 mathjax:        false
 categories:     
                 - School life
-                - 转载
+
 
 ---
 a place you've founded.
