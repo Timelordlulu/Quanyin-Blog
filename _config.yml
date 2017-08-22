@@ -3,7 +3,7 @@ title: Cunyuan Blog
 SEOTitle: Cunyuan Lu的博客 | Cunyuan Blog
 header-img: img/bg-default.jpg    #默认底图
 email: 1714831914@qq.com
-description: "from 上海中学"
+description: "From Shanghai High School"
 keyword: ""
 url: "http://www.lucunyuan.com/blog"                # your host, for absolute URL
 baseurl: "/Blog"                             # for example, '/blog' if your blog hosted on 'host/blog' /gh-pages-theme
