@@ -6,7 +6,7 @@ email: 1714831914@qq.com
 description: "博学而笃志，切问而近思| 这里是 @Cunyuan 的个人博客，与你一起发现更大的世界。"
 keyword: ""
 url: "http://www.lucunyuan.com/blog"                # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog' /gh-pages-theme
+baseurl: "/Blog"                             # for example, '/blog' if your blog hosted on 'host/blog' /gh-pages-theme
 repo: Blog                      #Where is the Repo
 
 
