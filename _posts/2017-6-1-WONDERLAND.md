@@ -13,24 +13,6 @@ categories:
 
 
 ---
-
-<!-- Language Selector -->
-<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英文 English </option>
-</select>
-
-<!-- Chinese Version -->
-<div class="zh post-container">
-<src="about_zh.md">
-</div>
-
-<!-- English Version -->
-<div class="en post-container">
-
-</div>
-
-
 a place you've founded.
 a place you're going to get lost in it.
 
