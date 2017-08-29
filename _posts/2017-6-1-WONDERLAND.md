@@ -22,7 +22,8 @@ categories:
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-
+    {% capture about_zh %}{% post about/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
 </div>
 
 <!-- English Version -->
